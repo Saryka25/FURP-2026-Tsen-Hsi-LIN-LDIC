@@ -30,19 +30,20 @@
 
 <!-- =================  YOUR ENTRIES BELOW  ================= -->
 
-### Week 1 — YYYY-MM-DD
+### Week 1 — 2026-06-14
 
-**Attended this week's meeting:** Yes / No
+**Attended this week's meeting:** Yes
 
 **Progress this week**
 - Set up repository from the FURP template.
-- _..._
+- Completed the format conversion of the robot's USD model and the debugging of the simulation environment. I successively attempted to use Python scripts and Blender to export the USD file to OBJ format, and finally converted it into XML to successfully load the model in MuJoCo.
 
 **Challenges & blockers**
-- _..._
+- Resolving issues such as file reading errors and abnormal model display.
 
 **Next steps**
-- _..._
+- Familiarized with the MuJoCo user interface.
+- Learning about LQR controllers.
 
 **Hours spent (optional):**
 
