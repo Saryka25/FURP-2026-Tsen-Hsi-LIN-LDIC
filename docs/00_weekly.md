@@ -48,3 +48,22 @@
 **Hours spent (optional):**
 
 **Links (optional):**
+
+
+
+### Week 1 — 2026-06-21
+
+**Attended this week's meeting:** No meeting
+
+**Progress this week**
+- Don't have much progress this week.
+
+**Challenges & blockers**
+- 
+
+**Next steps**
+- Learning about ROS
+
+**Hours spent (optional):** 
+
+**Links (optional):**
